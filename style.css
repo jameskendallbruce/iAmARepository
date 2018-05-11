@@ -1,0 +1,60 @@
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+
+    color: greenyellow;
+
+}
+
+h2 {
+
+    color: aquamarine
+
+}
+
+.box {
+
+    background-color: orchid;
+    text-align: center;
+
+}
+
+.Paragraph1 {
+
+    background-color: blueviolet;
+
+}
+
+ul {
+
+    background-color:coral
+
+
+}
+
+#bullet1 {
+
+    color: red;
+    font-size: x-large;
+    font-family: monospace;
+
+}
+
+#bullet2 {
+    
+    color: lightgreen;
+    font-size: medium;
+    font-family: fantasy;
+
+}
+
+#bullet3 {
+
+    color: rosybrown;
+    font-size: xx-small;
+    font-family: cursive;
+
+
+}
